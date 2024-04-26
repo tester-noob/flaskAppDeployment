@@ -8,4 +8,4 @@ def hello():
 	return "<h2>Hello World - Docker Flask Deployment Lab</h2><br/>"
 
 
-app.run(host="0.0.0.0", port=5000)
+app.run(host="0.0.0.0", port=3000)
